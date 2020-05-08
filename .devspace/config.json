@@ -1,0 +1,12 @@
+{
+  "workspace": null,
+  "favorite": false,
+  "editor": {
+    "name": "Code",
+    "cmd": "code $PATH"
+  },
+  "file_manager": {
+    "cmd": "/sbin/nautilus $PATH"
+  },
+  "browser": null
+}

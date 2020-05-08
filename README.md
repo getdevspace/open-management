@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/videos/showcase.gif" />
+  <img src="./assets/images/header.png" />
 </p>
 
 ## Key Features
