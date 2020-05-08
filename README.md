@@ -8,14 +8,14 @@
 </h4>
 
 <p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/getdevspace/open-management/issues">
+    <img src="https://img.shields.io/github/issues-raw/getdevspace/open-management.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/getdevspace/open-management/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/getdevspace/open-management.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
+    <a href="https://twitter.com/intent/tweet?text=DevSpace - Rethink how you organize your local projects:&url=https%3A%2F%2Fgetdevspace.com">
+    <img src="https://img.shields.io/twitter/url/https/github.com/getdevspace/open-management.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
 </p>
 
