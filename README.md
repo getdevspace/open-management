@@ -23,7 +23,7 @@
   <a href="https://getdevspace.com">Website</a> •
   <a href="#installation">Download</a> •
   <a href="#key-features">Features</a> •
-  <a href="#wiki">Wiki</a> •
+  <a href="https://github.com/getdevspace/open-management/wiki">Wiki</a> •
   <a href="CONTRIBUTING.md">Contributing</a> •
   <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
