@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://getdevspace.com">Website</a> •
-  <a href="#installation">Download</a> •
+  <a href="https://github.com/getdevspace/open-management/releases/tag/v1.0.0-prod1">Download</a> •
   <a href="#key-features">Features</a> •
   <a href="https://github.com/getdevspace/open-management/wiki">Wiki</a> •
   <a href="CONTRIBUTING.md">Contributing</a> •
