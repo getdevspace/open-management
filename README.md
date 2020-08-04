@@ -106,13 +106,5 @@ Hello, my name is Gabriel, and I'm the author and developer behind DevSpace, and
 
 DevSpace is an app I love working on and using, and so I did since February 2020, doing everything myself: desktop app, website, marketing and customer service. But as you may guess, it is not easy to pay bills when you're working so much on a project, and then publish it as open source.
 
-## Open management
-
-Although DevSpace is not open source in the common sense of the term, meaning that the source code is not public, I intend to adopt a strategy of open management, meaning that all issues, bugs, feature requests and roadmaps are publicly available on this GitHub page.
-
-I'll personally use this page to keep everyone up to date with my intentions, talk with people interested in my plans and post a daily development changelog.
-
-If you are interested in letting me know anything, like a feedback, a bug report or would like me to implement a feature, I encourage you to use this GitHub page and post here anything regarding DevSpace, I'm more than glad to help you with anything!
-
 ---
 <a href="https://getdevspace.com"><img src="./assets/images/logo.svg" alt="DevSpace logo" height="25px"></a>
